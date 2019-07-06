@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently a senior data analyst working at Nasdaq in Philadelphia.  I love learning and want to use this page
+as a place to collect anything I find interesting or useful.  It's also a space for any current personal projects
+I'm working on.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bzmccarthy@gmail.com](mailto:bzmccarthy@gmail.com)
