@@ -6,7 +6,7 @@
 name: Brian McCarthy
 
 # Short bio or description (displayed in the header)
-description: Data analyst and CS enthusiast in the Philadelphia area
+description: Mathematics/CS/data enthusiast in the Philadelphia area
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/13140969?s=460&v=4
@@ -21,9 +21,9 @@ footer-links:
   email: bzmccarthy@gmail.com
   facebook:
   flickr:
-  github: https://github.com/bzmccarthy/
+  github: bzmccarthy/
   instagram:
-  linkedin: https://www.linkedin.com/in/brian-mccarthy-54a64715/
+  linkedin: brian-mccarthy-54a64715/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
