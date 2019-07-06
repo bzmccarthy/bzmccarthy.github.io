@@ -1,8 +1,13 @@
 ---
 layout: post
-title: You're up and running! Part Deux
+title: Bushkill Falls
 ---
 
-A wonderful trip up to Bushkill falls with Amanda:
+Amanda and I recently had a wonderful trip up to Bushkill Falls.
+
+I would highly suggest it to anyone looking for a relaxing weekend getaway.  A few pics we took:
 
 ![_config.yml]({{ site.baseurl }}/images/20190614_100549.jpg)
+![_config.yml]({{ site.baseurl }}/images/amanda_falls.jpg)
+![_config.yml]({{ site.baseurl }}/images/bri_falls.jpg)
+![_config.yml]({{ site.baseurl }}/images/trees.jpg)
