@@ -6,6 +6,4 @@ permalink: /projects/
 
 Personal or professional projects I'm working on.
 
-### Projects
-
-In Progress
+### In Progress
