@@ -4,19 +4,16 @@ title: Books
 permalink: /books/
 ---
 
-Recent books I've read with annotations and/or references.
+Thoughts on any recent books I've read.
 
-### Books
 
-7/6/2019
-## [CODE: The Hidden Language of Computer Hardware and Software](https://read.amazon.com/kp/embed?asin=B00JDMPOK2&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_o7tiDbA7NK11D)
+### [CODE: The Hidden Language of Computer Hardware and Software](https://read.amazon.com/kp/embed?asin=B00JDMPOK2&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_o7tiDbA7NK11D)
 
 ![_config.yml]({{ site.baseurl }}/images/code_book.jpg)
 
-
-I first read CODE a number of years ago but wanted to pick it back up since beginning
-Nand2Tetris/The Elements of Computing Systems: Building a Modern Computer 
-from First Principles ([website](https://www.nand2tetris.org/) and [book on Amazon](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)) since it felt like they had so much in common.
+*July 6, 2019* - I first read CODE a number of years ago but wanted to pick it back up since beginning
+Nand2Tetris/*The Elements of Computing Systems: Building a Modern Computer 
+from First Principles* ([website](https://www.nand2tetris.org/) and [book on Amazon](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)) since it felt like they had so much in common.
 
 From my perspective I've always loved computers and knew they were "just a bunch of zeros and ones" but didn't have a
 clear understanding of how you go from 01010100010 to a website, video game or the entire world wide web.  Using a programming language
