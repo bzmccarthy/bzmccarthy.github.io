@@ -4,9 +4,6 @@ title: Books
 permalink: /books/
 ---
 
-Thoughts on any recent books I've read.
-
-
 ### [CODE: The Hidden Language of Computer Hardware and Software](https://read.amazon.com/kp/embed?asin=B00JDMPOK2&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_o7tiDbA7NK11D)
 
 ![_config.yml]({{ site.baseurl }}/images/code_book.jpg)
@@ -19,7 +16,7 @@ From my perspective I've always loved computers and knew they were "just a bunch
 clear understanding of how you go from 01010100010 to a website, video game or the entire world wide web.  Using a programming language
 and operating system to do that? Sure.  But doing it from scratch?  CODE is a book that bridges that gap.
 
-It starts with the simple premise of communicating with your best friend using flashlights. It them evolves this to telegraph relays, then logic gates then an adder and RAM.  From there you have all the basics you need to make a computer using Von Neumann architecture.  The great thing about the book is that it never underestimates the intelligence of the reader or handwaves things away.  It truly goes from the bare metal relays/vaccum tubes/transistors all the way up
+It starts with the simple premise of communicating with your best friend using flashlights. It then evolves this to telegraph relays, then logic gates then an adder and RAM.  From there you have all the basics you need to make a computer using Von Neumann architecture.  The great thing about the book is that it never underestimates the intelligence of the reader or handwaves things away.  It truly goes from the bare metal relays/vaccum tubes/transistors all the way up
 to building a fully functioning computer complete with wiring diagrams, logic tables, etc.
 
 Later in the book it goes through the actual history of computing from early analog and electromechanical computers through to the pioneers
