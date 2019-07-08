@@ -4,6 +4,10 @@ title: Books
 permalink: /books/
 ---
 
+### Reading List
+http://pages.cs.wisc.edu/~remzi/OSTEP/ Operating Systems: Three Easy Pieces
+https://greenteapress.com/wp/semaphores/ The Little Book of Semaphores (and check out the other Green Tea Press books)
+
 ### [CODE: The Hidden Language of Computer Hardware and Software](https://read.amazon.com/kp/embed?asin=B00JDMPOK2&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_o7tiDbA7NK11D)
 
 ![_config.yml]({{ site.baseurl }}/images/code_book.jpg)
